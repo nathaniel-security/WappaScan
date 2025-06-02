@@ -44,7 +44,7 @@
 Analyze a website by running:
 
 ```sh
-go run src/main.go <url>
+go run main.go <url>
 ```
 
 Replace `<url>` with the website you want to scan.
@@ -52,7 +52,7 @@ Replace `<url>` with the website you want to scan.
 ### Example
 
 ```sh
-go run src/main.go https://example.com
+go run main.go https://example.com
 ```
 
 **Sample Output:**
